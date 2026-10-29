@@ -1,0 +1,7 @@
+*.pdf
+*.pptx
+*.ppt
+*.ipynb
+.DS_Store
+Thumbs.db
+node_modules/
