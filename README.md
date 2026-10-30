@@ -16,6 +16,7 @@ The same content is in [QUESTIONS.md](QUESTIONS.md) and [NOTES.md](NOTES.md) for
 ```
 index.html          page shell; loads every script with a ?v= version
 css/style.css       styles (light/dark tokens at the top)
+js/gate.js          password screen (stores only a SHA-256 hash of the password)
 js/qb.js            QB registry that the data files call
 js/app.js           the app (tabs, practice, exam, notes)
 data/mock.js        Mock Quiz questions
